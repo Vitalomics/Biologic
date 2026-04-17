@@ -1,0 +1,126 @@
+Epitype;Signature;Epi.DR
+aging;physical frailty;D
+aging;sarcopenic;D
+allergic;serum immunoglobulin E (IgE) levels;R
+autoinmune;IgG4-related cholangitis;D
+autoinmune;rheumatoid arthritis (RA);D
+autoinmune;systemic sclerosis;D
+cardiovascular;acute coronary syndrome;D
+cardiovascular;atherosclerosis;D
+cardiovascular;blood HbA1c levels;R
+cardiovascular;blood high-density lipoprotein (HDL) levels;R
+cardiovascular;blood low density lipoprotein (LDL) levels;R
+cardiovascular;blood triglyceride levels;R
+cardiovascular;body mass index (BMI);R
+cardiovascular;body mass index (BMI) change;R
+cardiovascular;cardiac autonomic responses (acceleration capacity);R
+cardiovascular;cardiac autonomic responses (deceleration capacity);R
+cardiovascular;cardiovascular risk;D
+cardiovascular;coronary artery disease (CAD);D
+cardiovascular;familial hypercholesterolemia;D
+cardiovascular;hypertension;D
+cardiovascular;ischemic stroke;D
+cardiovascular;myocardial infarction;D
+cardiovascular;obesity;D
+cardiovascular;plasma adiponectin levels;R
+cardiovascular;recurrent stroke;D
+cardiovascular;risk of future coronary heart disease;D
+cardiovascular;risk of future myocardial infarction;D
+cardiovascular;stroke outcome;R
+cardiovascular;systolic blood pressure;R
+cardiovascular;total cholesterol;R
+cardiovascular;type 1 diabetes (T1D);D
+cardiovascular;type 2 diabetes (T2D);D
+cardiovascular;waist circumference (WC);D
+environmental;air pollution (NO2);D
+environmental;air pollution (PM10);D
+environmental;air pollution (PM2.5);D
+environmental;arsenic exposure;D
+environmental;Dioxin-like compound exposure;D
+environmental;frequency of heavy vehicle traffic;D
+environmental;lung function;R
+environmental;occupational pesticide exposure;D
+environmental;one-year moving averages of PM2.5 species (Fe);D
+environmental;one-year moving averages of PM2.5 species (Ni);D
+environmental;organophosphate exposure;D
+environmental;polychlorinated biphenyls (PCBs) exposure;D
+environmental;short-term PM2.5 exposure;D
+environmental;Trihalomethanes (THM) exposure;D
+hepatic;hepatic fat;D
+hepatic;hepatic steatosis;D
+hepatic;serum liver enzyme levels (alanine aminotransferase, ALT);R
+hepatic;serum liver enzyme levels (gamma-glutamyl transferase, GGT);R
+hormonal;free thyroxine 3;R
+hormonal;free thyroxine 4;R
+hormonal;infertility;D
+hormonal;serum 25-hydroxyvitamin D levels;R
+hormonal;sex hormone;D
+immunity;alcohol consumption;D
+immunity;alcohol use disorder (AUD);D
+immunity;asthma;D
+immunity;autism spectrum disorders (ASD);D
+immunity;blood phosphatidylethanol level;R
+immunity;circulating TNF-? concentration;R
+immunity;IgG4-related cholangitis;D
+immunity;leukocytosis;D
+immunity;rheumatoid arthritis (RA);D
+immunity;serum immunoglobulin E (IgE) levels;R
+immunity;soluble tumor necrosis factor receptor 2 (sTNFR2) levels in plasma;R
+immunity;systemic sclerosis;D
+immunity;total thiol levels (TTL) in plasma;R
+inflammation;alcohol consumption;D
+inflammation;alcohol use disorder (AUD);D
+inflammation;asthma;D
+inflammation;autism spectrum disorders (ASD);D
+inflammation;blood phosphatidylethanol level;R
+inflammation;circulating TNF-? concentration;R
+inflammation;soluble tumor necrosis factor receptor 2 (sTNFR2) levels in plasma;R
+inflammation;total thiol levels (TTL) in plasma;R
+lung;lung function;R
+metabolic;body mass index (BMI);R
+metabolic;body mass index (BMI) change;R
+metabolic;fasting plasma glucose;R
+metabolic;free thyroxine 3;R
+metabolic;free thyroxine 4;R
+metabolic;hepatic fat;D
+metabolic;hepatic steatosis;D
+metabolic;metabolic syndrome (MetS);D
+metabolic;obesity;D
+metabolic;persistent prediabetes or T2D;D
+metabolic;serum 25-hydroxyvitamin D levels;R
+metabolic;serum liver enzyme levels (alanine aminotransferase, ALT);R
+metabolic;serum liver enzyme levels (gamma-glutamyl transferase, GGT);R
+metabolic;type 1 diabetes (T1D);D
+metabolic;type 2 diabetes (T2D);D
+metabolic;waist circumference (WC);D
+muscle;sarcopenic;D
+neurologic;adult high-functioning autism spectrum disorder (ASD);D
+neurologic;Alzheimer's disease (AD);D
+neurologic;antidepressant use;R
+neurologic;anxiety;D
+neurologic;cannabis exposure;R
+neurologic;depression;D
+neurologic;generalized anxiety disorder (GAD);D
+neurologic;Huntington's disease (HD);D
+neurologic;insufficient sleep;D
+neurologic;major depression disorder;D
+neurologic;Parkinson's disease (PD);D
+neurologic;schizophrenia;D
+neurologic;stroke prognosis;R
+oncologic;acute myelocytic leukemia (AML);D
+oncologic;bladder cancer;D
+oncologic;breast cancer;D
+oncologic;colorectal cancer;D
+oncologic;colorectal cancer classification;D
+oncologic;cutaneous melanoma;D
+oncologic;epithelial ovarian cancer (EOC);D
+oncologic;hepatocellular carcinoma (HCC);D
+oncologic;lung cancer risk;D
+oncologic;nasopharyngeal carcinoma;D
+oncologic;non-small cell lung carcinoma (NSCLC);D
+reproductive;infertility;D
+reproductive;sex hormone;D
+stress;insufficient sleep;D
+stress;major depression disorder;D
+cardiovascular;metabolic syndrome (MetS);D
+cardiovascular;persistent prediabetes or T2D;D
